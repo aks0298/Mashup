@@ -128,4 +128,4 @@ Mashup/
 
 ## Author
 
-Tanish Ahuja
+Akshit Singla
